@@ -22,6 +22,6 @@ public class Exemple6_UtilsationDeConstantes {
 
     public void test() {
         System.out.println("Voici une constante définie hors de la méthode (depuis n'importe ou! : " + VITESSE_LUMIERE);
-        //On ne peut pas accéder à VITESSE_SON ici
+        //On ne peut pas accéder à VITESSE_SON ici,il est inaccessible
     }
 }
